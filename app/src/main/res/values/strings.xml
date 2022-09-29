@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="hola_mundo">Hola Mundo!</string>
+    <string name="btn_main_click">CLICK</string>
+    <string name="mensajeFab">Favoritos :)</string>
+    <string name="mensajeAccionFab">Agregar</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+    </string-array>
+    <string-array name="personas">
+        <item>Jhonatan</item>
+        <item>Andrea</item>
+        <item>Camilo</item>
+        <item>Marcos</item>
+        <item>Jose</item>
+    </string-array>
 </resources>
